@@ -1,4 +1,4 @@
-# PHP 7+ Programming
+# PHP 7+ 프로그래밍
 
 [[인프런] (구) PHP 7+ 프로그래밍](https://www.inflearn.com/course/php) 예제코드입니다.
 
