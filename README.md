@@ -7,7 +7,7 @@
 
 ## 커리큘럼
 
-1. PHP 기본문법
+1. [PHP 기본문법](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch1)
     * [HelloWorld](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch1/HelloWorld)
     * [StringAndNumber](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch1/StringAndNumber)
     * [Variables](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch1/Variables)
@@ -22,19 +22,19 @@
     * [References](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch1/References)
     * [Include](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch1/Include)
     * [Constructs](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch1/Constructs)
-3. 웹사이트 구축
+3. [웹사이트 구축](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch3)
     * [HtmlTemplate](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch3/HtmlTemplate)
     * [Form](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch3/Form)
     * [CookieAndSession](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch3/CookieAndSession)
-4. 내장함수
+4. [내장함수](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch4)
     * [File](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch4/File)
     * [Http](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch4/Http)
-5. 한층 더 레벨업!
+5. [한층 더 레벨업!](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch5)
     * [Security](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch5/Security)
     * [Cache](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch5/Cache)
     * [Debug](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch5/Debug)
     * [PHP.ini](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch5/PHP.ini)
-6. 로그인과 게시판
+6. [로그인과 게시판](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch6)
     * [App](https://github.com/php-courses-inflearn/php7-legacy/tree/main/ch6/app)
 
 ## 저작권
